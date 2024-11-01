@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abderrafik</h1>
-<h3 align="center">A passionate frontend developer from Ottawa</h3>
+<h3 align="center">A software enthusiast from Ottawa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boug0035&label=Profile%20views&color=0e75b6&style=flat" alt="boug0035" /> </p>
 
